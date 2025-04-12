@@ -2,7 +2,6 @@
 
 ## 🛠 Skills
 
-- [Javascript]
 - [HTML]
 - [CSS]
 
